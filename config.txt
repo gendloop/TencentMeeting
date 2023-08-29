@@ -1,0 +1,5 @@
+
+PROJECT_NAME=TencentMeeting
+TencentMeeting_VERSION_MAJOR=3
+TencentMeeting_VERSION_MINOR=18
+TencentMeeting_VERSION_PATCH=6
